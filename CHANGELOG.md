@@ -2,6 +2,7 @@
 
 ## 0.1.0 - Initial public release
 
+- Added Traditional Chinese documentation: `README.zh-TW.md`.
 - Cross-platform node installer via `ai_framework.py install`.
 - Shared-folder/NAS path configuration per machine.
 - Local working copy setup.

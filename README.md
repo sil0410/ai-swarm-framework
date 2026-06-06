@@ -3,6 +3,8 @@
 Version: 0.1.0
 License: MIT
 
+繁體中文說明: [README.zh-TW.md](README.zh-TW.md)
+
 AI Swarm Framework is a local-first, file-based coordination layer for multiple AI agents running on different machines.
 
 It is not an AI group chat.
