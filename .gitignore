@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+.node_config.json
+.framework_config.json
+_swarm_test/
+AI_ControlCenter/
+.DS_Store
+Thumbs.db
+*.log

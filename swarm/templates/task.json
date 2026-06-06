@@ -1,0 +1,17 @@
+{
+  "id": "TASK-YYYYMMDD-001",
+  "title": "Short task title",
+  "project": "project-name",
+  "assignee": "Planner",
+  "status": "active",
+  "created_by": "Human",
+  "created_at": "YYYY-MM-DDTHH:MM:SS",
+  "depends_on": [],
+  "next_agents": [],
+  "goal": "What success means",
+  "acceptance_criteria": [],
+  "files": [],
+  "risk": "low",
+  "human_review_required": false,
+  "notes": ""
+}

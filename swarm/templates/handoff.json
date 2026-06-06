@@ -1,0 +1,16 @@
+{
+  "id": "HANDOFF-YYYYMMDD-001",
+  "from": "Planner",
+  "to": "Producer",
+  "parent_task": "TASK-YYYYMMDD-001",
+  "status": "pending",
+  "created_at": "YYYY-MM-DDTHH:MM:SS",
+  "summary": "What was completed",
+  "next_action": "What the receiving agent must do next",
+  "files": [],
+  "acceptance_criteria": [],
+  "decision_needed": null,
+  "risk": "low",
+  "human_review_required": false,
+  "notes": ""
+}

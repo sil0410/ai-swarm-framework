@@ -1,0 +1,42 @@
+{
+  "team": "Example AI Team",
+  "shared_folder": "//server/share/AI_ControlCenter",
+  "agents": [
+    {
+      "name": "Coordinator",
+      "role": "Monitor tasks, handoffs, status, and summarize progress for the human",
+      "device": "Always-on Mac mini or small server",
+      "os": "macos"
+    },
+    {
+      "name": "Planner",
+      "role": "Plan work, write documents, design workflows, review outputs",
+      "device": "Main workstation",
+      "os": "windows"
+    },
+    {
+      "name": "Producer",
+      "role": "Run GPU jobs, local models, ComfyUI, rendering, media generation",
+      "device": "Linux GPU workstation",
+      "os": "linux"
+    },
+    {
+      "name": "Researcher",
+      "role": "Collect sources, scrape data, summarize references, prepare research notes",
+      "device": "Secondary PC or crawler node",
+      "os": "windows"
+    }
+  ],
+  "principles": [
+    "Execution over perfection",
+    "Reversible over irreversible",
+    "Honesty over pleasing",
+    "Human review for high-risk actions"
+  ],
+  "limits": [
+    "Do not delete shared folder data automatically",
+    "Do not use deletion-propagating sync by default",
+    "Do not publish externally without human review",
+    "Do not overwrite governance files automatically"
+  ]
+}
