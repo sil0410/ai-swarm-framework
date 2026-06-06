@@ -5,6 +5,8 @@
 
 AI Swarm Framework 是一個 local-first、file-based 的多 AI agent 協作框架。
 
+![AI Swarm Framework 功能示意圖](assets/ai-swarm-framework-zh.png)
+
 它不是 AI 群聊工具。
 
 它的核心概念是：
